@@ -4,7 +4,7 @@
 #  for iPhoneOS and iPhoneSimulator
 #
 #  Created by Felix Schulze on 16.12.10.
-#  Copyright 2010 Felix Schulze. All rights reserved.
+#  Copyright 2010-2015 Felix Schulze. All rights reserved.
 #
 #  Licensed under the Apache License, Version 2.0 (the "License");
 #  you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@
 ###########################################################################
 #  Change values here													  #
 #				
-VERSION="1.0.2a"													      #
+VERSION="1.0.2d"													      #
 SDKVERSION=`xcrun -sdk iphoneos --show-sdk-version`														  #
 #																		  #
 ###########################################################################
